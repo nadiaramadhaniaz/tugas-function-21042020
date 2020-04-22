@@ -1,0 +1,10 @@
+#include <iostream>
+using namespace std;
+
+double perkalian ( double c, double n){
+	return c * n;
+}
+
+int main () {
+	cout << perkalian (4, 2);
+}
