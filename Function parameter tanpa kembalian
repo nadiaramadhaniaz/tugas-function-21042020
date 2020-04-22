@@ -1,0 +1,12 @@
+#include <iostream>
+using namespace std;
+
+void pembagian (int c, int n) {
+	cout << (c / n);
+
+}
+
+int main (){
+		pembagian (24, 12);
+		
+}
