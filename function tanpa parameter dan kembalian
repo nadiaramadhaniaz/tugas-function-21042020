@@ -1,0 +1,12 @@
+#include <iostream>
+using namespace std;
+
+int function () {
+	cout << endl;
+	cout << "Function- ini merupakan function tanpa parameter dan kembalian. ";
+	cout << endl;
+}
+
+int main () {
+	cout << function ();
+}
